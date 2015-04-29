@@ -1,5 +1,5 @@
 # Default is World
-# Author: Jim Weirich (jim@somewhere.com)
+# Author: omri sharvit (omrisharvit88@gmail.com)
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
